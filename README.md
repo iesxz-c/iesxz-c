@@ -6,7 +6,7 @@
 
 💡 I'm eagerly seeking opportunities to collaborate with fellow tech enthusiasts who share my zeal for creativity and problem-solving. Whether you have a brilliant idea or simply a shared passion for pushing the boundaries of technology, I'm all ears and open to collaboration.
 
-📫 Feel free to reach out to me via email at akash.krishnan.046@gmail.com or connect with me on Discord (username: zero_clod).
+📫 Feel free to reach out to me via email at akash.krishnan.046@gmail.com .
 
 😄 Pronouns: He/him
 
