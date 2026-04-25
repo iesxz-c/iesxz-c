@@ -18,7 +18,6 @@
 
 ## > boot.log
 
-```ts
 const akash = {
   location: "Chennai, India",
   degree: "B.E Computer Science (IoT)",
@@ -28,36 +27,10 @@ const akash = {
   focus: [
     "DSA",
     "Backend Engineering",
-    "AI Systems",
-    "Scalable Products"
-  ],
-  state: "Locked In"
+    "AI/ML Systems",
+  ]
 }
-````
 
----
-
-## > terminal.exe
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-
-</div>
-
-```bash
-akash@portfolio:~$ whoami
-Akash
-
-akash@portfolio:~$ skills
-Python TypeScript FastAPI React SQL Linux
-
-akash@portfolio:~$ status
-Building projects. Leveling up daily.
-
-akash@portfolio:~$ target
-Top-tier SDE
-```
 
 ---
 
