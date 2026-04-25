@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+There+%F0%9F%91%8B;I'm+Akash" />
-</h1>
-
 <div align="center">
 
 # <span style="color:#00F7FF;">Akash</span>
@@ -101,19 +97,6 @@ const akash = {
 
 </div>
 
-
----
-
-## > philosophy.sh
-
-```bash
-while(alive){
-   learn();
-   build();
-   improve();
-   repeat();
-}
-```
 
 ---
 
