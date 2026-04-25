@@ -1,18 +1,10 @@
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=iesxz-c.iesxz-c&left_color=0d1117&right_color=00F7FF" />
-
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=850&color=00F7FF&center=true&vCenter=true&width=980&lines=Hello+There+%F0%9F%91%8B;I'm+Akash+(Asche);Software+Engineer+in+Progress;Intern+%40+TrackMyAcademy;Former+Research+Intern+%40+DRDO;Backend+Builder+%7C+AI+Systems+%7C+IoT;I+Build+Things+That+Actually+Work" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+There+%F0%9F%91%8B;I'm+Akash;Software+Engineer+in+Progress;Intern+%40+TrackMyAcademy;Former+Research+Intern+%40+DRDO;Backend+Builder+%7C+AI+Systems+%7C+IoT;I+Build+Things+That+Actually+Work" />
 </h1>
 
-</div>
-
----
-
 <div align="center">
 
-# `AKASH // ASCHE`
+# <span style="color:#00F7FF;">Akash</span>
 
 ### Computer Science Engineer • Backend Builder • AI + Systems Developer
 
@@ -28,18 +20,16 @@
 
 ```ts
 const akash = {
-  alias: "Asche",
   location: "Chennai, India",
   degree: "B.E Computer Science (IoT)",
   cgpa: "9.11 / 10",
   currentRole: "Intern @ TrackMyAcademy",
-  previousRole: "Research Intern @ DRDO (CVRDE)",
+  previousRole: "Research Intern @ DRDO",
   focus: [
     "DSA",
     "Backend Engineering",
     "AI Systems",
-    "Scalable Products",
-    "Real Impact"
+    "Scalable Products"
   ],
   state: "Locked In"
 }
@@ -47,19 +37,25 @@ const akash = {
 
 ---
 
-## > terminal
+## > terminal.exe
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+
+</div>
 
 ```bash
-akash@github:~$ whoami
-Akash | Builder | Engineer
+akash@portfolio:~$ whoami
+Akash
 
-akash@github:~$ status
-Currently shipping projects and leveling up daily.
-
-akash@github:~$ skills
+akash@portfolio:~$ skills
 Python TypeScript FastAPI React SQL Linux
 
-akash@github:~$ target
+akash@portfolio:~$ status
+Building projects. Leveling up daily.
+
+akash@portfolio:~$ target
 Top-tier SDE
 ```
 
@@ -113,7 +109,17 @@ Top-tier SDE
 
 ---
 
-## > contribution_activity
+## > contribution_boxes
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00F7FF/iesxz-c" alt="Akash's Github chart" width="100%" />
+
+</div>
+
+---
+
+## > contribution_timeline
 
 <div align="center">
 
@@ -123,21 +129,11 @@ Top-tier SDE
 
 ---
 
-## > snake.exe
+## > achievement_board
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## > dev_game
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iesxz-c&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=iesxz-c&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
 
 </div>
 
@@ -149,7 +145,7 @@ Top-tier SDE
 while(alive){
    learn();
    build();
-   adapt();
+   improve();
    repeat();
 }
 ```
