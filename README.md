@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+There+%F0%9F%91%8B;I'm+Akash;Software+Engineer+in+Progress;Intern+%40+TrackMyAcademy;Former+Research+Intern+%40+DRDO;Backend+Builder+%7C+AI+Systems+%7C+IoT;I+Build+Things+That+Actually+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+There+%F0%9F%91%8B;I'm+Akash" />
 </h1>
 
 <div align="center">
@@ -18,6 +18,7 @@
 
 ## > boot.log
 
+```ts
 const akash = {
   location: "Chennai, India",
   degree: "B.E Computer Science (IoT)",
@@ -30,7 +31,7 @@ const akash = {
     "AI/ML Systems",
   ]
 }
-
+````
 
 ---
 
@@ -100,15 +101,6 @@ const akash = {
 
 </div>
 
----
-
-## > achievement_board
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iesxz-c&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
-
-</div>
 
 ---
 
@@ -127,6 +119,6 @@ while(alive){
 
 <div align="center">
 
-### "Potential means nothing without execution."
+### "Life runs on chaos, I run on coffee"
 
 </div>
