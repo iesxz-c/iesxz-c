@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Akash (Asche)
@@ -124,4 +123,4 @@ Become undeniable
 ### I don't chase trends. I build skills.
 
 </div>
-```
+
