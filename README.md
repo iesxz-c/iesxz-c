@@ -39,32 +39,6 @@
 </div>
 
 ---
-## Featured_repositories
+<div align="center"> <img src="https://ghchart.rshah.org/00F7FF/iesxz-c" alt="Akash's Github chart" width="100%" /> </div>
 
-<div align="center">
-
-<a href="https://github.com/iesxz-c/Intelligent-Code-Documentation-Generator-cli-vscode-extension">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=iesxz-c&repo=Intelligent-Code-Documentation-Generator-cli-vscode-extension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</a>
-
-<a href="https://github.com/iesxz-c/Smart-Seat-Detection-and-Access-System">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=iesxz-c&repo=Smart-Seat-Detection-and-Access-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</a>
-
-<a href="https://github.com/iesxz-c/Energy-analytics-platform">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=iesxz-c&repo=Energy-analytics-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</a>
-
-<a href="https://github.com/iesxz-c/watchtower">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=iesxz-c&repo=watchtower&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</a>
-
-</div>
-
----
-<div align="center">
-
-### "Life runs on chaos, I run on coffee"
-
-</div>
 
