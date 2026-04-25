@@ -60,18 +60,6 @@
 
 ---
 
-## > contribution_boxes
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00F7FF/iesxz-c" alt="Akash's Github chart" width="100%" />
-
-</div>
-
----
-
-## > contribution_timeline
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iesxz-c&theme=react-dark&bg_color=0d1117&hide_border=true&line=00F7FF&point=FFFFFF&area=true" width="100%" />
