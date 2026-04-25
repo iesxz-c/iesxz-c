@@ -26,8 +26,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,react,nextjs,tailwind,fastapi,flask,nodejs,reactivex,mysql,firebase,supabase,appwrite,git,linux,vscode,postman,vercel,anaconda&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,react,nextjs,tailwind,fastapi,flask,nodejs,reactivex,mysql,firebase,supabase,appwrite&theme=dark&perline=15" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,vercel,anaconda&theme=dark&perline=6" />
 
 </div>
 
