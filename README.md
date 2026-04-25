@@ -12,25 +12,6 @@
 
 ---
 
-## > boot.log
-
-```ts
-const akash = {
-  location: "Chennai, India",
-  degree: "B.E Computer Science (IoT)",
-  cgpa: "9.11 / 10",
-  currentRole: "Intern @ TrackMyAcademy",
-  previousRole: "Research Intern @ DRDO",
-  focus: [
-    "DSA",
-    "Backend Engineering",
-    "AI/ML Systems",
-  ]
-}
-````
-
----
-
 ## > featured_repositories
 
 <div align="center">
