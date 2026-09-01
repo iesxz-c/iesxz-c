@@ -34,12 +34,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iesxz-c&bg_color=0d1117&hide_border=true&color=39D353&line=39D353&point=39D353&area=true&area_color=39D353" width="100%" />
-
-</div>
-
----
-
 <div align="center"> <img src="https://ghchart.rshah.org/39D353/iesxz-c" alt="Akash's Github chart" width="100%" /> </div>
